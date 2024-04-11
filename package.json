@@ -1,0 +1,17 @@
+{
+  "name": "base-bot",
+  "version": "1.0.0",
+  "main": "limon.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "node limon.ts"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@whiskeysockets/baileys": "https://github.com/WhiskeySockets/Baileys",
+    "chalk": "^5.3.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
